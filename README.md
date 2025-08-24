@@ -6,9 +6,7 @@ Um sistema simples de **assistência virtual por voz** em Python, construído co
 - Regras de **comandos por voz** em português para abrir: **Wikipedia**, **YouTube** (home e busca) e **mapa da farmácia mais próxima** (Google Maps)
 
 > Idioma padrão: **pt-BR**.  
-> Projeto pronto para você criar um repositório no GitHub e publicar pelo **GitHub Desktop**.
 
----
 
 ## 📦 Requisitos
 - **Python 3.9+**
