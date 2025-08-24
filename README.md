@@ -139,9 +139,3 @@ assistente-virtual-pln/
 ## 📜 Licença
 Este projeto é distribuído sob a licença **MIT**. Sinta-se livre para usar e adaptar.
 
----
-
-## ✨ Ideias de extensão (opcional)
-- Hotword por **detecção contínua** (e.g., Snowboy/Picovoice Porcupine).
-- Integração com APIs (previsão do tempo, notícias, etc.).
-- NLU aprimorado (spaCy/Rasa) ou prompts com LLM para melhor compreensão.
