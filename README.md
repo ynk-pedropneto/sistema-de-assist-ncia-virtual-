@@ -135,18 +135,6 @@ assistente-virtual-pln/
 - **Permissões no macOS:** dê acesso ao terminal/IDE em *Segurança e Privacidade → Microfone*.  
 - **Nada acontece ao falar:** ruído ambiente alto pode atrapalhar. Fale próximo ao microfone, em local silencioso.
 
----
-
-## 🚀 Publicar no GitHub (GitHub Desktop)
-1. Abra o **GitHub Desktop**.
-2. Clique em **File → Add local repository…** e selecione a pasta `assistente-virtual-pln`.
-3. Em **Summary**, escreva uma mensagem (ex.: `Primeiro commit`) e clique em **Commit to main**.
-4. Clique em **Publish repository** (canto superior direito). Defina nome/descrição e confirme.
-5. O repositório será criado e publicado na sua conta.
-
-> Alternativa: **File → New repository…** (cria um repo vazio) e depois mova/cole os arquivos do projeto para a pasta do repositório.
-
----
 
 ## 📜 Licença
 Este projeto é distribuído sob a licença **MIT**. Sinta-se livre para usar e adaptar.
